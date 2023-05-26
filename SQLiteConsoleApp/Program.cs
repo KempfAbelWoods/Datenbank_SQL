@@ -142,7 +142,6 @@ namespace SQLiteDemo
           sqlite_cmd = conn.CreateCommand();
           sqlite_cmd.CommandText = "UPDATE SampleTable set Kunde='Popopirat Gbr' where ID='1';";
           sqlite_cmd.ExecuteNonQuery();
-          string deleteKunde = "delete from Kunde where id=3;";
       }
       
       static void DeleteData(SQLiteConnection conn)
