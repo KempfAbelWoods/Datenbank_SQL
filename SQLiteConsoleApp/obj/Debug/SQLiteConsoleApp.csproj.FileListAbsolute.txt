@@ -1,0 +1,12 @@
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\bin\Debug\SQLiteConsoleApp.exe.config
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\bin\Debug\SQLiteConsoleApp.exe
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\bin\Debug\SQLiteConsoleApp.pdb
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\obj\Debug\SQLiteConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\obj\Debug\SQLiteConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\obj\Debug\SQLiteConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\obj\Debug\SQLiteConsoleApp.csproj.CopyComplete
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\obj\Debug\SQLiteConsoleApp.exe
+C:\Users\Sean\Documents\Hochschule\Projektlabor\Code\SQLite\SQLiteTutorial\SQLiteConsoleApp\obj\Debug\SQLiteConsoleApp.pdb
